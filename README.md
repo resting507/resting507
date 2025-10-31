@@ -40,7 +40,6 @@ thx to [- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=
 ## 🏆 Cards
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=simbkj1019)](https://solved.ac/simbkj1019)
-[![CodeForces Profile](https://cf.leed.at?id=resting507)](https://codeforces.com/profile/resting507)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=simbkj1019&theme=dark)
 <!--
 [![sungjoonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungjoonyoung)](https://github.com/sungjoonyoung)
