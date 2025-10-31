@@ -28,7 +28,7 @@ thx to [- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=
 ![header](https://capsule-render.vercel.app/api?type=blur&color=ACBCFF&fontColor=F2F4F6&height=200&section=header&text=Welcome+to+resting507's+Github!👋&fontSize=40)
 
 ## About Me
-- Dongguk University, Bachelor of Computer Science
+- Dongguk University, Computer Science
 
 ## 💻 Skills
 
