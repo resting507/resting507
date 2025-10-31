@@ -25,6 +25,7 @@ thx to [- <img src="https://img.shields.io/badge/Pytorch-FF3232?style=flat&logo=
 - [MachineLearning-DeepLearning](https://github.com/sungjoonyoung/self_MachineLearning-DeepLearning) : Self-learning in Machine Learning and Deep Learning
 
 -->
+![header](https://capsule-render.vercel.app/api?type=venom)
 
 ## About Me
 - Dongguk University, Bachelor of Computer Science
